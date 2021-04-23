@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi!
+
+I'm currently a computer science student. To test out some of the projects I'm working on, follow the link to my [website.](http://patrickjparker.com/)
 
 <!--
 **patrickjparker/patrickjparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
