@@ -1,6 +1,4 @@
-### Hi!
 
-I'm currently a computer science student
 
 <!--
 **patrickjparker/patrickjparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
